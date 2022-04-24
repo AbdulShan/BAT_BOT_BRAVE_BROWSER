@@ -1,6 +1,7 @@
 # BAT_BOT_BRAVE_BROWSER
 
 //This code Written and Executed by Abdul Shan.
+//the code has been now removed by Abdul Shan
 
 <h2>
   NOTE</h2>
