@@ -1,7 +1,7 @@
 # BAT_BOT_BRAVE_BROWSER
 
-//This code Written and Executed by Abdul Shan.
-//The bug has been resolved after i informed the developers. Hence the code won't work now.
+//This code Written and Executed by Abdul Shan.<br>
+//The bug has been resolved after i informed the developers. Hence the code won't work now.<br>
 //the code has been now removed by Abdul Shan
 
 <h2>
